@@ -1,0 +1,18 @@
+2026-11-10 17:34:58 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-10 17:35:13 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-10 17:35:54 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-10 17:40:43 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-10 17:40:43 - INFO - Cliente registrado: 1001
+2026-11-10 17:40:43 - WARNING - Se intento registrar un cliente invalido.
+2026-11-10 17:40:43 - INFO - Servicio registrado: S001
+2026-11-10 17:40:43 - INFO - Servicio registrado: S002
+2026-11-10 17:40:43 - INFO - Servicio registrado: S003
+2026-11-10 17:40:43 - WARNING - Se intento crear un servicio con tarifa invalida.
+2026-11-10 17:40:43 - INFO - Reserva R001 creada correctamente.
+2026-11-10 17:40:43 - INFO - Reserva registrada: R001
+2026-11-10 17:40:43 - INFO - Reserva R001 confirmada.
+2026-11-10 17:40:43 - INFO - Reserva R001 procesada. Costo: 107100.00
+2026-11-10 17:40:43 - INFO - Finalizo el intento de procesamiento de la reserva R001.
+2026-11-10 17:40:43 - WARNING - Se intento cancelar una reserva procesada.
+2026-11-10 17:40:43 - WARNING - No se pudo crear la reserva: La duracion debe ser mayor que cero.
+2026-11-10 17:40:43 - INFO - Finalizacion de las pruebas del sistema.
